@@ -6,9 +6,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Tamas Kiss"]
   spec.email         = ["tamas.kiss2@resideo.com"]
 
-  spec.summary       = "TODO: Write a short summary, because Rubygems requires one."
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
-  spec.license       = "MIT"
+  spec.summary       = "Jekyll theme for Resideo documentation."
+  spec.homepage      = "https://resideo.com"
+  spec.license       = "All Rights Reserved"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README|_config\.yml)!i) }
 
