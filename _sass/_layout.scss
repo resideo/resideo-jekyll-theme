@@ -87,11 +87,9 @@ body {
       color: $inactive-gray;
 
       code {
-        display: block;
         color: $charcoal;
         background-color: $extra-light-gray;
-        margin: 0.5em;
-        padding: 1em;
+        padding: 0.1em 0.3em;
         border-color: $gray;
         border-width: 1px;
         border-style: solid;
